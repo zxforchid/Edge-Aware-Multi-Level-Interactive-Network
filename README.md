@@ -6,4 +6,4 @@
 ```
 git@github.com:zxforchid/Edge-Aware-Multi-Level-Interactive-Network.git
 ```
-We also provide the trained model and predicted saliency maps ( [baidu](https://pan.baidu.com/s/1TWQMHzeG6EQJLGAg_dNKSQ) extraction code: im95.)
+We also provide the trained model and predicted saliency maps ( [baidu](https://pan.baidu.com/s/1Mosb8ZLIQJ6URG_c6lKt6A) extraction code: fjfv.)
